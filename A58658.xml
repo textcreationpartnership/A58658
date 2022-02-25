@@ -1,0 +1,528 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation for calling together the militia on this side of Tay, and the fencible men in some shires Edinburgh, the thirtieth day of March, 1689.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58658</idno>
+            <idno type="STC">Wing S1323A</idno>
+            <idno type="STC">ESTC R38222</idno>
+            <idno type="EEBO-CITATION">17215095</idno>
+            <idno type="OCLC">ocm 17215095</idno>
+            <idno type="VID">106253</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58658)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106253)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1100:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation for calling together the militia on this side of Tay, and the fencible men in some shires Edinburgh, the thirtieth day of March, 1689.</title>
+                  <author>Scotland. Parliament.</author>
+                  <author>Gibson, Alexander, Sir, d. 1693.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh printed :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Countersigned at end: Al. Gibson cls.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the National Library of Scotland (Advocates'), Edinburgh.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  1689-1745.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:106253:1"/>
+            <pb n="1" facs="tcp:106253:1" rendition="simple:additions"/>
+            <head>A PROCLAMATION For calling together the Militia on this ſide of <hi>Tay,</hi> and the Fencible Men in ſome Shires.</head>
+            <opener>
+               <dateline>
+                  <hi>Edinburgh,</hi> 
+                  <date>the Thirtieth day of <hi>March,</hi> 1689.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Meeting of the Eſtates of this Kingdom, taking to their Conſideration, that the Proteſtant Religion, and the Publick Peace of the Kingdom, are at this time in eminent danger; the Papiſts being in Arms in great numbers in the Kingdom of <hi>Ireland,</hi> &amp; that there is juſt ground to apprehend and fear, in caſe they prevail, that they in Conjunction with other Ene<g ref="char:EOLhyphen"/>mies to our Religion and Peace, may attempt to Invade this Kingdom; And it being indiſpenſably neceſſary, that in this time of common danger, , the Sub<g ref="char:EOLhyphen"/>jects of this Nation be put in a Poſture of Defence, for reſiſting any Forraign In<g ref="char:EOLhyphen"/>vaſion, and ſuppreſſing any Inteſtine Commotion that may ariſe: THEREFORE the Eſtates do Command and Require the Militia Horſe and Foot in the ſeve<g ref="char:EOLhyphen"/>ral Shires after-mentioned, according to the preſent Eſtabliſhment by Law, to repair to the places following, ſufficiently Armed and Provided, and there to Rendezvouz under the Command of the reſpective Collonels of Foot, and Captains of Horſe after-named; <hi>viz.</hi> The Militia Regiment of the Town of <hi>Edinburgh,</hi> at the Links of <hi>Leith,</hi> upon the Fifteenth day of <hi>April</hi> next. The Militia Regiment of the Shire of <hi>Edinburgh,</hi> at <hi>Currie</hi> Moor; and the Mili<g ref="char:EOLhyphen"/>tia Troop of Horſe of the ſaid Shire<g ref="char:punc">▪</g> at the Links of <hi>Leith</hi> the ſaid day. The Militia Regiment and Troop of the Shire of <hi>Haddingtoun,</hi> at <hi>Beinstoun</hi> Moor the ſaid day. The Militia Regiment and Troop of the Shire of <hi>Berwick,</hi> at <hi>Creas</hi> Moor the ſaid day. The two Regiments and Troops of the Shires of <hi>Roxburgh</hi> and <hi>Selkirk,</hi> at <hi>Lantoun</hi>-edge or Moor the ſaid day. The Regiment and Troop of the Shire of <hi>Dumfreis,</hi> at <hi>Lockhar</hi>-bridge, near the Town of <hi>Dumfreis</hi> the ſaid day. The Militia Troop of the Shire of <hi>Wigtoun,</hi> at <hi>Glenluce;</hi> and the Troop of the Stewartry of <hi>Kirkcudbright,</hi> at <hi>Carlinwork</hi> the ſaid day. The three Militia Troops of the Shire of <hi>Air,</hi> as follows, <hi>viz.</hi> The Troop for <hi>Carrick,</hi> at <hi>Mayboll,</hi> the Troop for <hi>Kyle,</hi> at the Town of <hi>Air,</hi> and the Troop for <hi>Cunninghame,</hi> at <hi>Irwine</hi> the ſaid day. The three Militia Troops of the Shire of <hi>Lanerk,</hi> as follows, <hi>viz.</hi> The Troop under the Command of the Duke of <hi>Hamilton,</hi> at the Town of <hi>Hamiltoun,</hi> the Troop under the Command of the Marqueſs of <hi>Dowglaſs,</hi> at the Town of <hi>Lanerk,</hi> and the Troop under the Command of the Lord <hi>Carmichael,</hi> at <hi>Glaſgow</hi> the ſaid day. The Troop of the Shire of <hi>Renfrew,</hi> at <hi>Renfrew</hi> Moor the ſaid day. The Militia Regiment of the Shires of <hi>Argyle, Dumbarton</hi> and <hi>Bute,</hi> as follows, <hi>viz.</hi> Theſe Companies Out-reiked by the Shire of <hi>Argyle,</hi> at <hi>Innerrary,</hi> and the reſt of the Compa<g ref="char:EOLhyphen"/>nies
+<pb n="2" facs="tcp:106253:2"/>
+of that Regiment Out-reiked by the Shires of <hi>Dumbarton</hi> and <hi>Bute,</hi> at the Town of <hi>Dumbarton,</hi> the ſaid day. The Militia Regiment and Troop of the Shires of <hi>Striviling</hi> and <hi>Clackmannan,</hi> at <hi>Brocks-brae,</hi> the ſaid day. The Mili<g ref="char:EOLhyphen"/>tia Regiment and Troop of the Shires of <hi>Linlithgow</hi> and <hi>Peebles,</hi> as follows, <hi>viz.</hi> The Troop of Horſe, and theſe Companies of the Regiment Out-reiked by the Shire of <hi>Linlithgow,</hi> at the Town of <hi>Linlithgow;</hi> and the Companies Out-reiked by the Shire of <hi>Peebles,</hi> at the Town of <hi>Peebles,</hi> the ſaid day. The Weſtern Regiment of the Shires of Fife and <hi>Kinroſs,</hi> and the Weſtern Troop thereof, at <hi>Dumfermling;</hi> and the Eaſtern Regiment and Eaſtern Troop, at <hi>Cowper</hi> Moor, the ſaid day. The two Regiments of Foot, and two Troops of Horſe of the Shire of <hi>Perth,</hi> at the Town of <hi>Perth,</hi> the ſaid fifteenth day of <hi>A<g ref="char:EOLhyphen"/>pril</hi> next. And the Meeting of the Eſtates do Nominat and Appoint the Per<g ref="char:EOLhyphen"/>ſons after-named to be Officers of the ſaid Militia Regiments of Foot, and Troops of Horſe, <hi>viz.</hi> Of the Militia Regiment of the Town of <hi>Edinburgh,</hi> the Provoſt of <hi>Edinburgh</hi> for the time Collonel, Baillie <hi>Thomas Hamilton</hi> Lieu<g ref="char:EOLhyphen"/>tenent-Collonel, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Lumſden</hi> of <hi>Innergellie</hi> Major, <hi>Archibald Dumbar</hi> Mer<g ref="char:EOLhyphen"/>chant, <hi>James Hart</hi> Merchant, <hi>Robert Wright, William Mitchell</hi> Baxter for the <hi>Cannongate,</hi> and the Baron-Baillie of <hi>Leith</hi> for <hi>Leith,</hi> Captains. In the Shire of <hi>Edinburgh,</hi> Sir <hi>John Maitland</hi> Collonel of the Militia Regiment, Sir <hi>John Clark</hi> of Pennicook Lieutenent-Collonel, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Burnet</hi> of Carlops Major, <hi>Alex<g ref="char:EOLhyphen"/>ander Gilmor</hi> of Craig-miller, Sir <hi>John Ramſay</hi> of White-hill, the Laird of Leny younger, the Laird of Deuchar, the Laird of Long-ſauchtoun, the Laird of Hermiſheills, the Laird of Murehouſe younger, Captains. The Earl of Lo<g ref="char:EOLhyphen"/>thian Captain of the Militia Troop, the Lord Forreſter Lieutenent, and the Laird of Woolmet Cornet. In the Shire of Haddingtoun Sir <hi>James Hay</hi> of Linplum Collonel of the Regiment, Sir <hi>William Baird</hi> Lieutenent-Collonel, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Halliburton</hi> of Inchcairnie Major, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Hepburn</hi> of Bearford, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Durham</hi> of Lufneſs, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Dowgall</hi> of Nunland, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Brown</hi> of New-hall, the Laird of Gilmertoun younger, and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> of White-law Captains: <hi>Andrew Fletcher</hi> of Saltoun Captain of the Troop of Horſe. <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> In the Shire of <hi>Berwick,</hi> Sir Archbald Cockburn of <hi>Langien,</hi> Collonel of the Militia Regiment; John Hume of <hi>Ninewalls</hi> Lieutenent-Collonel; the Laird of <hi>Kimerghame,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Brown of <hi>Thorne-dicks,</hi> George Hume of St. Leon<g ref="char:EOLhyphen"/>ards; <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Belſhes Younger of <hi>Tofts</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Brown of Black-burn <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Trotter of Ketle-ſheil younger; and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Hume of <hi>Hundwood</hi> Captains; Sir Patrick Hume of <hi>Polwart,</hi> Captain of the Troop of Horſe <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Hume of <hi>Weſt-reſton</hi> Lieutenent, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Mowat of <hi>Falſide</hi> Cornet. In the Shire of <hi>Roxburgh,</hi> and Selkirk, Sir William Ker of Green-Head, Collonel of the <hi>Eaſtern</hi> Regiment <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Bennet younger of <hi>Grubit</hi> Captain of the <hi>Eaſtern</hi> Troop; Charles Ker of <hi>Red<g ref="char:EOLhyphen"/>ding</hi> Lieutenent, and Andrew Ker younger of <hi>Chatto</hi> Cornet; The Lord <hi>New<g ref="char:EOLhyphen"/>botle</hi> Collonel of the <hi>Weſtern</hi> Regiment; Sir William Douglas of <hi>Cavers</hi> Lieu<g ref="char:EOLhyphen"/>tenent-Collonel; George Pringle younger of <hi>Torwoodlie</hi> Major; John Scot of <hi>Gilmor-ſeleugh</hi> younger, Walter Riddel of <hi>New-houſe;</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Turnbul of <hi>Stamhall,</hi> James Murray of <hi>Sound<g ref="char:punc">▪</g>hope,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Veitch <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Ker of <hi>Abotrule,</hi> and the Laird of <hi>Torſonce</hi> Captains, Sir Francis Scot of <hi>Thirlſtone</hi> Captain of the <hi>Weſtern</hi> Troop. In the Shyre of <hi>Dumfries,</hi> the Earl of An<g ref="char:EOLhyphen"/>nandale Collonel of the Militia Regiment, Sir Patrick Maxwel Lieutenent Colonel, John Johnſton younger of <hi>Weſter-hall</hi> Major, the Laird of <hi>How<g ref="char:EOLhyphen"/>mains,</hi> the Laird of <hi>Closburn</hi> younger, the Laird of <hi>Core-head</hi> elder, the Laird <hi>Brakinſide,</hi> the Laird of <hi>Capinoch,</hi> the Laird of <hi>Garnſalloch</hi> younger, and the Laird of <hi>Crawfordſton</hi> Captains. The Duke of <hi>Queensberry</hi> Captain of the Troup. In the Shire of <hi>Wigton,</hi> the Laird of <hi>Logan</hi> Captain of the Troup, James Agnew younger of <hi>Loch<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aw</hi> Lieutenent <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Gordon of
+<pb n="3" facs="tcp:106253:2"/>
+               <hi>Craich-law</hi> Cornet. In the Stewartrie of <hi>Kirk<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udburgh,</hi> the Viſcount of <hi>K<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mure</hi> Captain of the Troup, the Laird of <hi>Ruſco</hi> Lieutenant, and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Murray of <hi>Kellvens</hi> Cornet. In the Shire of <hi>Air,</hi> and Bailliary of <hi>Curri<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> therein, the Lord Barganie Captain of the Troup, the Laird of Dunduff Lie<gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tenant, and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Montgomery of <hi>Borland</hi> Cornet. In the Bailliary <gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Kyle,</hi> the Earl of Dundonnald Captain of the Troup, the Maſter of <hi>Cathca<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> Lieutenant, and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Cornet. In the Bailliary of <hi>Cunninghame,</hi> t<gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Earl of <hi>Eglington</hi> Captain of the Troup, the Lord Montgomery Lieutenan<gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> of <hi>Col<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>field</hi> Cornet. In the Shire of <hi>Lanerk,</hi> the Duke <gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Hamilton</hi> Captain of the Troup of the Midle-Ward, the Laird of <hi>Raplo<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> younger Lieutenant, and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Stuart of <hi>Torrence</hi> younger Cornet, t<gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Marquis of <hi>Douglas</hi> Captain of the Troup of the Upper-Ward <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Menzies of <hi>Coulterraws</hi> younger Lieutenant, and John Bannantyne of <hi>Crai<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mure</hi> Cornet. The Lord Carmichael Captain of the Troup of the Neithe<gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Ward, the Laird of Cleghorn Lieutenant, and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Hay</hi> of Craignetha<gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> younger Cornet. In the Shire of Renfreu, the Earl of Glencairn Captain <gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Troup, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Pollock of that ilk Lieutenant, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> of Glan<gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>derſton Cornet. In the Shires of <hi>Dumbarton, Argyle,</hi> and <hi>Bute,</hi> the Earl o<gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Argyle,</hi> Collonel of the Militia Regiment, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Colquhoun of <hi>Luſs,</hi> Lieu<g ref="char:EOLhyphen"/>tenant Collonel, Black Alexander Campbel Major, Archibald Campbe<gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> younger of <hi>Barbrek,</hi> Duncan Campbel, Brother to Mcconachie, Duncan Camp<g ref="char:EOLhyphen"/>bel, Brother to Kilberrie, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Buntin younger of <hi>Airdoch,</hi> and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Bannantine younger of <hi>Kaymes</hi> Captains. In the Shires of <hi>Stirling</hi> and <hi>Clack<g ref="char:EOLhyphen"/>mannan;</hi> The Lord Elphingſton Collonel of the Militia Regiment, the Laird of <hi>Polmais</hi> Lieutenant Collonel, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> of Boquhen younger, Major, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> of Harbert-Shire, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Rollo of <hi>Woodſide,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Living<g ref="char:EOLhyphen"/>ſton of <hi>Glentirran,</hi> and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Nicolſon of <hi>Tilliecultry,</hi> Captains, and Baillie James Brown, Captain of the Town of <hi>Stirlings</hi> Company; the Laird of <hi>Alva</hi> Cap<g ref="char:EOLhyphen"/>tain of the Troup, Sir Alexander Hope of <hi>Carſs</hi> Lieutenent, and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Glaſs of Sauchie Cornet. In the Shires of <hi>Linlithgow</hi> and <hi>Peebles,</hi> the Lord Cardroſs Collonel of the Militia Regiment, the Laird of Riccarton-Drum<g ref="char:EOLhyphen"/>mond, Lieutenent Collonel, the Laird of <hi>Livingſton</hi> Major, Thomas Hamil<g ref="char:EOLhyphen"/>ton of <hi>Boghead,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Lawſon of <hi>Cairnmure,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Ruſſel of <hi>Slipperfield,</hi> and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Veitch of <hi>Glen,</hi> Captains; the Lord Torphichen Captain of the Troup, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Dickſon of <hi>Heartree</hi> Lieutenent, James Hamilton of <hi>Ban<g ref="char:EOLhyphen"/>gour</hi> Cornet. In the Shires of <hi>Fife</hi> and <hi>Kinroſs,</hi> the Earl of <hi>Morton</hi> Collonel of the Weſt-Regiment of Foot, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Douglas of Strahenry, Lieutenent Col<g ref="char:EOLhyphen"/>lonel; Alexander Spittle of <hi>Lewchat</hi> Major, James Skeen of <hi>Grange, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Aiton</hi> of <hi>Inch-darnie,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> of <hi>Spenſer-field,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> of <hi>Laſsoddie</hi> younger, and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Orrack of <hi>Baltrain</hi> Captains. Sir Charles Halket Cap<g ref="char:EOLhyphen"/>tain of the Weſtern Troup of Horſe, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Monteith of <hi>Randifoord</hi> Lieu<g ref="char:EOLhyphen"/>tenent, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Cornet. The Maſter of Burghlie Collonel of the Eaſtern Regiment, Sir David Arnot Lieutenent Collonel, Robert Douglas of <hi>Kirk<g ref="char:EOLhyphen"/>neſs</hi> Major <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Watſon of <hi>Athernie</hi> Elder, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> of <hi>Balbirnie</hi> younger, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Hay of <hi>Naughton</hi> younger, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> of <hi>Banikie</hi> younger, and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Aiton of <hi>Kinnadie</hi> Captains; the Maſter of <hi>Melvil</hi> Captain of the Eaſtern Troup of Horſe, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> of <hi>Auchter-marnie</hi> Lieutenent, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Cornet. In the Shire of <hi>Perth,</hi> the Marquis of Athol, Collonel of the Eaſt<g ref="char:EOLhyphen"/>ern Regiment of Foot<g ref="char:punc">▪</g> formerly commanded by him<g ref="char:punc">▪</g> the Earl of <hi>Breadalbine,</hi> Lieutenent Collonel, James Ramſay of Ba<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ff Major, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> The Lord Rollo Captain of the Eaſtern Troop. The Lord Ruthven Collonel of the Weſtern Regiment<g ref="char:punc">▪</g> formerly commanded by the Earl of <hi>Perth,</hi> the Laird of Weyme younger Lieutenent Collonel, Robert Stuart
+<pb n="4" facs="tcp:106253:3"/>
+of Arvordlich Major, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Drummond of Comrie, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Lindſay of Eve<g ref="char:EOLhyphen"/>lick, the Laird of Leys, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Oliphant of Condie, and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Ure of Shirgartoun, Captains; The Laird of Glenegies, Captain of the Troop in the Weſtern part of the Shire, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Hume of Argitie Leiutenent, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Cornet. And Ordains the ſaids Collonels of Foot and Captains of Horſe, to take upon them the Command of the ſaids Regiments and Troops <hi>reſpectivè;</hi> with Power to the Collonels to name their own Majors where they are not named by this Act, or being named ſhall not Accept: And that both Collonels, and Cap<g ref="char:EOLhyphen"/>tains of Horſe, have the ſame Power of Nominating their inferior Officers, not named by this Act, which was granted to them by Acts and Inſtructions of the Privy Council. And it is hereby Declared, that all theſe Perſons who are hereby Nominate Officers of the Militia, albeit they ſhould Decline to Accept, yet they ſhall be holden to bring together to the foreſaid places of Rendezvouz theſe appointed to be under their Command, and that they ſhall alſo be lyable to the Penalties appointed by Law for their refuſing to Accept. And the Eſtates do Ordain the Collonels of Foot and Captains of Horſe <hi>reſpectivè,</hi> or in their Abſence the next Commanding Officers, to keep together the ſpace of ſix Days the ſaid Regiments and Troops, when they ſhall Rendezvouz at the foreſaid places, and during that time to Exerciſe them, and then to diſmiſs them, they being always in readineſs upon advertiſement from the Collonel of Foot or Captain of Horſe, or the next Commanding Officer, to come together again to the ſaids reſpective places of Rendezvouz with twenty days Proviſion, and either to continue there for the ſpace of twenty Days, or to March elſe where within the Kingdom, as they ſhall receive Orders from the ſaid Officers: And it is hereby Declared, that the Abſents from the Rendezvouz in this Juncture, ſhall be holden as Abſents from the Hoſt, and Proceeded againſt accordingly. And to the end that the Militia may be made the more effectual, the Eſtates do Nominat and Appoint the perſons afternamed to be Commiſſioners, for Or<g ref="char:EOLhyphen"/>dering the Militia in the ſeveral Shires, with the Collonels, Leiutenant Col<g ref="char:EOLhyphen"/>lonels, Majors and Captains of Foot, and the Captains, Leiutenants and Cor<g ref="char:EOLhyphen"/>nets of Horſe, <hi>viz.</hi> For the Shire of <hi>Edinburgh,</hi> The Viſcount <hi>of</hi> Tarbet, Sir John Baird <hi>of</hi> Newbyth, Sir James Foulis <hi>of</hi> Collingtoun, Sir James Richard<g ref="char:EOLhyphen"/>ſon <hi>of</hi> Smeitoun, Sir William Murray, Sir Mark Carſs, Sir Robert Baird, the Laird <hi>of</hi> Arniſtoun, the Laird <hi>of</hi> Riccartoun Craig, the Laird <hi>of</hi> Pumpherſtoun, Mr. David Dunmure <hi>of</hi> Curriehill, and Mr. William Dowglas <hi>of</hi> Baads, the Dutcheſs <hi>of</hi> Buckcleughs Baillie of the Regality <hi>of</hi> Dalkeith for the time, and the Dutcheſs <hi>of</hi> Lauderdale her Baillie for Dudingſtoun for the time. For the Shire of <hi>Haddingtoun,</hi> The Lord Yeſter, the Lord Belhaven, the Laird <hi>of</hi> Stevinſtoun, the Laird <hi>of</hi> Ormiſtoun, the Laird <hi>of</hi> Lamingtoun, the Laird <hi>of</hi> Preſtongrange, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Hepburn <hi>of</hi> Beinſtoun, Robert Hamilton <hi>of</hi> Preſ<g ref="char:EOLhyphen"/>menan, David Hepburn <hi>of</hi> Humbie, Sir John Lawder <hi>of</hi> Fountain-hall, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Hamilton <hi>of</hi> Nynwar, Sir John Hall <hi>of</hi> Dunglaſs, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Hepburn <hi>of</hi> Smeiton, Sir Patrick Hepburn <hi>of</hi> Blackcaſtle, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Sydſerf <hi>of</hi> that Ilk, and the Dutcheſs <hi>of</hi> Lauderdale her Baillie for Leidingtoun, Sir John Baird <hi>of</hi> New<g ref="char:EOLhyphen"/>byth, Sir John Sinclar <hi>of</hi> Lochend, the Laird <hi>of</hi> Gosford, the Laird <hi>of</hi> Dirl<g ref="char:EOLhyphen"/>toun, the Laird <hi>of</hi> Ruchlaw, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Murray <hi>of</hi> Spot. For the Shire of <hi>Ber<g ref="char:EOLhyphen"/>wick,</hi> The Lord Harcars, the Lord Merſingtoun, Sir James Don <hi>of</hi> Newtoun, Sir Robert Stuart <hi>of</hi> Allanbank, Sir Patrick Hume <hi>of</hi> Lumſden, the Laird <hi>of</hi> Lambertoun, the Laird <hi>of</hi> Moriſtoun, the Laird <hi>of</hi> Idingtoun, the Laird <hi>of</hi> Toſts, Patrick Wardlaw <hi>of</hi> Berriehaugh, James Hume <hi>of</hi> Flaſs, William Hume <hi>of</hi> Greenlaw-caſtle, John Watſon <hi>of</hi> Jardenfield, Sir John Hall of Auldcambus, Pringle <hi>of</hi> Greenknow, Mr. James Daes <hi>of</hi> Coldingknows, George Hume <hi>of</hi> Baſſindene, and John Hume younger <hi>of</hi> Newtoun. For the Shires of <hi>Roxburgh</hi> and <hi>Selkirk,</hi> The Lord Jedburgh, Sir William Elliot <hi>of</hi> Stobbs, Sir John Scot
+<pb n="5" facs="tcp:106253:3"/>
+               <hi>of</hi> Ancrum, Sir William Scot younger <hi>of</hi> Harden, George Pringle <hi>of</hi> Torwoodlie, Sir Patrick Scot younger <hi>of</hi> Ancrum, Sir William Bennet <hi>of</hi> Grubet, the Laird <hi>of</hi> Chatto, the Laird <hi>of</hi> Cliftoun, the Laird <hi>of</hi> Raeburn, the Laird <hi>of</hi> Smelholm, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Ker <hi>of</hi> Littledean, Alexander Don <hi>of</hi> Rutherford, the Laird <hi>of</hi> Hadden, the Laird <hi>of</hi> Gallowſheils, the Laird <hi>of</hi> Midleſted, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Elliot <hi>of</hi> Midlamiln, the Lairds <hi>of</hi> Mckerſtoun elder and younger, the Lairds <hi>of</hi> Stitchhill elder and younger <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>of</hi> Frogden, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>of</hi> Horſliehill, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>of</hi> Blackhill, the Dutcheſs <hi>of</hi> Buckcleugh her Chamberlain, and the Earl <hi>of</hi> Roxburgh his Chamberlain for the time. For the Shire of <hi>Dumfreis,</hi> The Lord Drumlanrig, the Laird <hi>of</hi> Craigdarroch, Sir Robert Lawrie <hi>of</hi> Maxweltoun, Sir James John<g ref="char:EOLhyphen"/>ſton of Weſterhall, the Laird <hi>of</hi> Carnſelloch elder, the Laird <hi>of</hi> Eccles, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Johnſtoun younger <hi>of</hi> Lockerbie, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Murray <hi>of</hi> Drumcreiff younger, William Johnſton <hi>of</hi> Grantoun, Andrew Johnſton <hi>of</hi> Newtoun, the Laird <hi>of</hi> Ramerskails, the Laird <hi>of</hi> Dormount, William Dowglas <hi>of</hi> Dornock. For the Shire of <hi>Wigtoun,</hi> Sir Andrew Agnew <hi>of</hi> Lochnaw, Sir John Dal<g ref="char:EOLhyphen"/>rymple, William Mcdowgal <hi>of</hi> Garthland, Sir William Maxwell <hi>of</hi> Monreith, John Vaus <hi>of</hi> Barnbaroth, the Laird <hi>of</hi> Mochrum, the Laird <hi>of</hi> Caſtle-Stewart, Sir Charles Hay, the Laird <hi>of</hi> Seuchan, the Laird <hi>of</hi> Dunsky, James Dal<g ref="char:EOLhyphen"/>rymple <hi>of</hi> Dunragat. For the Stewartry of <hi>Kirkcudbright,</hi> Alexander Gordon <hi>of</hi> Earlſtoun, Roger Gordon <hi>of</hi> Troquhen, Patrick Murdoch <hi>of</hi> Cumlodan, Edward Maxwell <hi>of</hi> Hills, David Mcculloch <hi>of</hi> Ardwell, Robert Brown <hi>of</hi> Corſlouth, Andrew Herron <hi>of</hi> Kinauchtree, William Gordon <hi>of</hi> Craig, John Ewart <hi>of</hi> Mullock, Samuel Maxwell <hi>of</hi> Newlay, John Mackie <hi>of</hi> Palgown, John Neil<g ref="char:EOLhyphen"/>ſon <hi>of</hi> Corſack, Alexander Brown <hi>of</hi> Kempletoun. For the Shire of <hi>Air,</hi> In the Bailliarie of <hi>Carrict,</hi> The Laird <hi>of</hi> Cairltoun, John Mack-Alexander younger <hi>of</hi> Drummochrie, Quintine Kennedy elder <hi>of</hi> Drumellan, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Boyd <hi>of</hi> Trochrig, Fergus Mackgibbon <hi>of</hi> Knockdollian, Thomas Kennedy <hi>of</hi> Grange, Alexander Ferguſon <hi>of</hi> Kilkerran, John Whiteford <hi>of</hi> Blairquhan, James Crawford <hi>of</hi> New-wark, Quintine Macilvain <hi>of</hi> Grimnet, Mr. John Fer<g ref="char:EOLhyphen"/>guſon <hi>of</hi> Barclauchanan<g ref="char:punc">▪</g> For the Bailliarie of <hi>Kyle,</hi> The Lord Crichton, the Laird <hi>of</hi> Ceſnock, William Cochran <hi>of</hi> Ochiltrie, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Fairlie <hi>of</hi> Burnt<g ref="char:EOLhyphen"/>field, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Fullerton <hi>of</hi> Corsbie, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>of</hi> Adamtoun elder and younger, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> McAlexander <hi>of</hi> Boghall, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Farquhar <hi>of</hi> Gilmerſ<g ref="char:EOLhyphen"/>croft, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Logan <hi>of</hi> Logan, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Chalmers <hi>of</hi> Polquharn, Mun<g ref="char:EOLhyphen"/>go Campbel younger <hi>of</hi> Nether-place, David Crawford <hi>of</hi> Drumſowie, David Crawford <hi>of</hi> Barquharrie, Charles Cunninghame <hi>of</hi> Drongan, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Cath<g ref="char:EOLhyphen"/>cart <hi>of</hi> Drumton, Mr. David Cunninghame <hi>of</hi> Milcraig, John Reid younger <hi>of</hi> Ballach-myle, David Crawford <hi>of</hi> Carſs, David Boſwell <hi>of</hi> Auchinleck, Mr. John Boſwell, William Cunninghame <hi>of</hi> Brown-hill, and William Campbel <hi>of</hi> Skelden. For the Bailliarie of <hi>Cunninghame,</hi> The Laird <hi>of</hi> Blair, Sir James Montgomery of Skelmorlie, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Crawford of Kilbirnie, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Mure of Rowallan, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Cunninghame of Cunninghame-head, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Hamilton of Grange, Mr. Francis Montgomery, Major Hugh Buntine, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Craw<g ref="char:EOLhyphen"/>ford of Ferguſon, Sir Alexander Cunninghame of Corſhill, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Cun<g ref="char:EOLhyphen"/>ningham of Aiket, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Crawford of Crawford-land, and Hugh Ste<g ref="char:EOLhyphen"/>vinſon of Mont-greenan. For the Shire of <hi>Lanerk,</hi> The Earl of Forfar, the Laird of Lamingtoun, Sir Daniel Carmichael, the Laird of<g ref="char:punc">▪</g> Weſtſhiel, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Lockhart of Kirktoun <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Baillie of Jerviſwood, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Hamilton of Aikenhead, Sir William Maxwell of Calderwood, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Muirhead of Bradiſholm, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Stuart of Allantoun, Hamilton of Barncluith, Stuart of Cultneſs, Sir William Lockhart of Carſtairs, Sir John Carmichael of Bonningtoun, Sir William Fleming of Fairme, Mr. John Kin<g ref="char:EOLhyphen"/>caid of Croſsbasket, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Hamilton of Weſtburn, the Laird of Dal<g ref="char:EOLhyphen"/>ziel, Alexander Cleland of Clelandtoun, George Muirhead of Stevinſtoun, Sir
+<pb facs="tcp:106253:4"/>
+John Harper of Cambuſnethan, the Laird of Lee, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Stuart of Hart<g ref="char:EOLhyphen"/>wood, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Cochran of Rochſolls, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Hamilton of Airdrie, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Hamilton of Halcraig younger, William Baillie of Hardingtoun, James Lock<g ref="char:EOLhyphen"/>hart of Anniſtoun, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Stark of Anchinvoll, William Cleland of Hair<g ref="char:EOLhyphen"/>ſhaw, William Hamilton of Wiſhaw, James Young of Netherfield, the Laird of Walſtoun younger, and William Lawrie of Blakwood. For the Shire of <hi>Renfrew,</hi> The Lord Roſs, the Lord Blantyre, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Shaw younger of Greenock, Sir Archibald Stuart of Blackhall, Sir Patrick Houſtoun of that Ilk, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Cunninghame younger of Craigens, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Maxwell of Pollock, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Fleeming of Borochen, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> of Fulwood. For the Shire of <hi>Dumbartoun,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Cochran of Kilmaronock, Archibald <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> of Ardincaple, Alexander Gartſhore of that Ilk, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Hamilton of Barns, William Colquhoun of Craig<g ref="char:EOLhyphen"/>toun, Andrew Colquhoun of Garſcadden, John Carmichael Chamberlain to the Earl of Wigtoun, James Hamilton of Hutcheſtoun, Nicol Buntine of Air<g ref="char:EOLhyphen"/>doch, and William Stirling of Law. For the Shire of <hi>Bute,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Bannatine of Kaymes elder, Maſter John Stuart of Eſcog. For <hi>Arran,</hi> the Baillie of Arran. For the Shire of <hi>Argyle,</hi> Sir Duncan Campbel <hi>of</hi> Auchinbreck, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Camp<g ref="char:EOLhyphen"/>bel <hi>of</hi> Barbreck, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>of</hi> Craigneiſh, Lord Neil Campbel, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Campbel <hi>of</hi> Lochnell, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Campbel <hi>of</hi> Mcconachie, Sir Colin Campbell <hi>of</hi> Ardkinleſs, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>of</hi> Strahur, the Laird <hi>of</hi> Lamond, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Campbel elder <hi>of</hi> Allangreg, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Campbel Captain <hi>of</hi> Carrick, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Campbel <hi>of</hi> Skipnage, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Campbel <hi>of</hi> Glencarradel, Dougal Campbel <hi>of</hi> Glenſaddel, Colin Campbel <hi>of</hi> Blythſwood. For the Shires of <hi>Striviling</hi> and <hi>Clackmannan,</hi> The Earl <hi>of</hi> Marr, the Viſcount <hi>of</hi> Tarbet, the Lord Cardroſs, the Laird <hi>of</hi> Houſtoun, the Laird <hi>of</hi> Wood-head, the Laird <hi>of</hi> Bardowie, the Laird <hi>of</hi> Cul<g ref="char:EOLhyphen"/>creuch, the Laird <hi>of</hi> Ballendalloch, the Laird <hi>of</hi> Touch, Alexander Monro <hi>of</hi> Bear-crofts, the Laird <hi>of</hi> Powes, the Laird <hi>of</hi> Quarrel, the Laird <hi>of</hi> Gargunnock, the Laird <hi>of</hi> Clackmannan, John Keirie <hi>of</hi> Gogar, the Laird of Weſt-quarter, the the Laird <hi>of</hi> Tillibody, Francis Maſtertoun <hi>of</hi> Park-miln. For the Shire of <hi>Linlith<g ref="char:EOLhyphen"/>gow,</hi> the Laird <hi>of</hi> Dundaſs, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Dundaſs <hi>of</hi> Manner, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Dundaſs <hi>of</hi> Duding<g ref="char:EOLhyphen"/>ſtoun, Mr. William Dundaſs <hi>of</hi> Kincavle, John Hamilton <hi>of</hi> Dechmont, Walter Cornwall <hi>of</hi> Bonhard, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Sharp <hi>of</hi> Houſtoun, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Monteeth <hi>of</hi> Aldcathie, Sir William Hope, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Hamilton <hi>of</hi> Binnie, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Cochran <hi>of</hi> Barbach<g ref="char:EOLhyphen"/>law, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>of</hi> Balbairdie, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>of</hi> Polkennet, the Laird <hi>of</hi> Craigiehall, Robert Anſtruther <hi>of</hi> Wrae, Alexander Hamilton Baillie <hi>of</hi> Stra<g ref="char:EOLhyphen"/>brock. For the Shire of <hi>Peebles,</hi> James Earl <hi>of</hi> Mortoun, Lieutenent-General Dowglaſs <hi>of</hi> Skirling, William Hay <hi>of</hi> Drumelzier, Sir Archibald Murray <hi>of</hi> Blackbarrony, Sir William Murray <hi>of</hi> Stenhope, David Murray younger <hi>of</hi> Stenhope, Richard Murray <hi>of</hi> Spitlehaugh, James Geddes of Kirkurd, William Moriſon <hi>of</hi> Preſtoun-grange, John Hay <hi>of</hi> Hay ſtoun, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Burnet <hi>of</hi> Barns, James Williamſon <hi>of</hi> Cardrono, Jo. Brown <hi>of</hi> Scotſtoun, Jo. Dickſon of Whitſlaid, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Hunter of Polmude, David Plenderleith of Blyth, William Burnet <hi>of</hi> Kailzie, Alex<g ref="char:punc">▪</g> Horſburgh younger of that Ilk, James Naſmith <hi>of</hi> Poſſo, Alexander Murray <hi>of</hi> Hall-myre, John Murray <hi>of</hi> Cringltie, John Balfour <hi>of</hi> Kailzie, Sheriff-Depute, Robert Burnet <hi>of</hi> Little-Ormiſtoun, Alexander Baillie <hi>of</hi> Callens, Alexander Hamilton <hi>of</hi> Cold-coat, James Chiſholm <hi>of</hi> Hayhope, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Pennicook <hi>of</hi> Ro<g ref="char:EOLhyphen"/>manno, William Younger elder, Portioner <hi>of</hi> Lintoun. For the Shires of <hi>Fife</hi> and Kinroſs, The Earl <hi>of</hi> Crawford, the Earl <hi>of</hi> Levin, the Lord Melvil, Sir Philip Anſtruther, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Hay <hi>of</hi> Nauchtoun, Mr. Archibald Hope <hi>of</hi> Ran<g ref="char:EOLhyphen"/>keillor, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>of</hi> Reddie elder, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Auchmoutie of Lawhill, William Anſtruther of that Ilk, John Dempſter of Pitliver, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> of Lathallan, James Robertſon of Newbigging, James Crawford of Monwhannie. For the Shire of <hi>Perth,</hi> The Lord Cardroſs, Mr. Francis Montgomery, Sir Patrick Murray-Patrick Smith of Methven, Patrick Stuart of Ballachan, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Stuart of Sten<g ref="char:EOLhyphen"/>toun, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> of Collonbellie, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Home of Argattie, Collin Camp<g ref="char:EOLhyphen"/>bel
+<pb n="7" facs="tcp:106253:4"/>
+of Formage, Thomas Hay of Balhouſie, Walter Stuart of Kincarachie, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Blair of Inſhyra, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Grahame of Balgoun, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Linton of Pan<g ref="char:EOLhyphen"/>drich, Colin Campbel of Monzie, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Drummond of Meggins, William Lindſay of Kilſpindie, John Drummond of Blair, Collonel Meinzies, Patrick Hay of Leys elder, Mungo Campbel of Burnbank, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Stuart of Annat, Mr. William Erskine, John Erskine of Balgoun, Lawrence Craigie of Kilgri<g ref="char:EOLhyphen"/>ſtoun, Mr. James Craigie younger of Dumbarnie, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Fleming of Mo<g ref="char:EOLhyphen"/>neſs, Sir Colin Campbel of Aberurquhall, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> of Rind, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Naper of Balwhaple; Together with one of the Magiſtrats for the time of each Royal Burgh, and Burgh of Regality, who contribute to the Out-reik of the Mili<g ref="char:EOLhyphen"/>tia, in each reſpective Shire. And the Eſtates do Authorize and Impower the ſaids Commiſſioners, to Nominat the Captains of Foot, and the Lieute<g ref="char:EOLhyphen"/>nents and Cornets of Horſe, with conſent of the Collonels and Captains of Horſe <hi>reſpectivè,</hi> where they are not named by this Act, or being named, do not accept. With power to the ſaids Commiſſioners, to determine all differences and controverſies which may ariſe<g ref="char:punc">▪</g> in relation to the Militia, and to do all other things requiſite and neceſſary for ordering thereof, which the former Com<g ref="char:EOLhyphen"/>miſſioners had power to do by the Acts of Parliament, and Acts of Privy Council. And it is hereby Declared, that two of the Commiſſioners, with one of theſe Offi<g ref="char:EOLhyphen"/>cers, <hi>viZ.</hi> The Collonel, Lieutenant-Collonel, Major, and Captain of Foot, or the Captain, Lieutenent, or Cornet of Horſe, ſhall be a <hi>Quorum:</hi> And if a greater number meet, that the Major part be Commiſſioners. And in re<g ref="char:EOLhyphen"/>ſpect of the preſent Exigence, The Eſtates do Ordain all the Heretors, and o<g ref="char:EOLhyphen"/>ther Perſons in each Shire, and Jurisdiction within the ſame, to come out with their beſt Horſes and Arms, to the foreſaid places of Rendezvouz of the Horſe, the ſecond day of the Rendezvouz, under the pain of Confiſcation of their Horſes, for the Publick uſe, and where there are different places of Rendez<g ref="char:EOLhyphen"/>vouzes appointed for Troops of Horſe in one Shire, that the Heretors repair to the reſpective places of Rendezvouz appointed for the ſeveral Diviſions of the Shires wherein they Reſide; And in caſe the Commiſſioners of Militia, with one of the Field-Officers of the Foot, or the Captain, Lieutenent, or Cornet of Horſe, ſhall find any Militia Horſe to be inſufficient, that they cauſe the Leader furniſh another ſufficient Horſe, and if neither he, nor theſe of the Fraction, who Contri<g ref="char:EOLhyphen"/>bute to him, have one, that they cauſe the Leader buy a Horſe, and that any of the reſt of the Heretors, or others having ſufficient Horſes, at the Rate contained in the Act of Parliament, or thereby ſhall be holden to Sell one to him at a reaſonable Price, to be appointed by the ſaids Commiſſioners, or their <hi>Quorum</hi> aforeſaid, not exceeding the foreſaid Rate, or thereby; And it is hereby Ordained, that theſe Perſons, who are lyable in Fractions of Militia-Horſes, ſhall at this time Contribute their Proportions to the Leader, for a new Out-reick of Horſe, and Furniture, where the Leader has Served the full ſpace of ſeven years, ſince the laſt time that theſe of the Fraction did Contribute to him: But where the Leader has not not Served fully the ſeven years, that he ſhall continue to ſerve untill the expiring thereof, without any new Contribution, by theſe of the Fraction: And the Officers and Commiſſioners of the Militia, are hereby Impowered to call for the Standarts, Colours, Trum<g ref="char:EOLhyphen"/>pets, and Drums, which belong to each Shire, from theſe who had the truſt thereof, or their Repreſentatives, who are hereby required to deliver the ſame to the ſaids Officers; And where they are not extant, that new ones be provided, at the Charge of the Shire. And the Meeting of the Eſtates conſidering, that there is no Militia Foot in the Shires of <hi>Lanerk, Air, Ren<g ref="char:EOLhyphen"/>frew, Wigton,</hi> and Stuartry of <hi>Kirkeudburgh;</hi> They grant Power and War<g ref="char:EOLhyphen"/>rand to the Commiſſioners of Militia, in the ſaids Shires, and Stuartrie, to bring together all the fencible Men, in theſe reſpective Shires, and Stuart<g ref="char:EOLhyphen"/>rie,
+<pb n="8" facs="tcp:106253:5"/>
+who are hereby required upon Intimation from the ſaids Commiſſioners, to come out ſufficiently Armed, and provided according to their Qualities, and Conditions, with Power to the Commiſſioners, with Advice of the reſt of the Gentlemen, when the Fenſible Men are met, to moddel them, or ſo many of them<g ref="char:punc">▪</g> as they ſhall think fit, into Companies, and to appoint Captains, and other Officers to the ſaid companies, which captains ſhall Randezvouz them weekly, within their reſpective Paroches, to be in readineſs there<g ref="char:EOLhyphen"/>after, to come out as they ſhall be advertiſed by their Officers. And fur<g ref="char:EOLhyphen"/>ther, the Eſtates commands and Requires the reſpective Sheriffs, and their Deputs, to cauſe prepare Beacons upon the moſt Eminent and conſpicuous Places in the Shires of <hi>Wigton, Air,</hi> and <hi>Bute,</hi> and to cauſe kindle theſe Beacons when they ſhall have Notice, or appearance of an Invaſion, upon the Weſt<g ref="char:EOLhyphen"/>coaſt of this Kingdom: And in that caſe, the Leidges, who have their Horſ<g ref="char:EOLhyphen"/>es, or cattel near the ſaid coaſt, are Required to Remove them Ten miles from the coaſt, that no Invaders from the <hi>Iriſh</hi> coaſt may have any Sup<g ref="char:EOLhyphen"/>ply, Aſſiſtance, or Advantage thereby; And Ordains the Fenſible men in the ſaid Shires, and Stewartrie, upon their having Notice of the firing of theſe Beacons, to repair to the reſpective Places to be appointed for the Ran<g ref="char:EOLhyphen"/>dezvouzes, by their Officers. And Ordains thir Preſents to be Publiſhed, by Heraulds, Macers, Purſevants, Meſſengers at Arms, or Sheriff Offi<g ref="char:EOLhyphen"/>cers, at the Mercat-Croſs of <hi>Edinburgh,</hi> and all the Mercat-Croſſes of the Head Burghs of the whole Shires above<g ref="char:punc">▪</g>expreſt, and other Royal Burghs, and Burghs of Regality within the ſame. <hi>Extracted out of the Records of the Meeting of Eſtates, By me</hi>
+            </p>
+            <closer>
+               <signed>Al. Gibſon Cls.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed in the Year, 1689.</p>
+            <pb facs="tcp:106253:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
